@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color:#fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagen1{
+    width: 100%;
+}
+
+.transparente{
+    color: transparent
+}
+
+/*.navbar {
+    background-color:rgba(0,0,0,.2)
+   } */
+
+.tamaño{
+    width: 100%;
+
+}  
+
+.borde {
+    border-radius: 5%;
+}
+
+.icono {
+    width: 5%;
+}
+
+html{
+    scroll-behavior: smooth;
+    
+}
